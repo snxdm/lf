@@ -24,7 +24,7 @@ const getSpawnDelay = () => {
 }
 const doubleStrongEnableScore = 2000;
 // Number of cubes that must be smashed before activating a feature.
-const slowmoThreshold = 10;
+const slowmoThreshold = 9527;
 const strongThreshold = 25;
 const spinnerThreshold = 25;
 
